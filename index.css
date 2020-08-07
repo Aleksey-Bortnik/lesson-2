@@ -7,7 +7,7 @@ h1 {
 }
 
 h3 {
-    font-family: "open sans";
+    font-family: "Open sans";
     font-size: 14px;
     font-weight: 400;
     text-align: center;
@@ -15,14 +15,14 @@ h3 {
 }
 
 h2 {
-    font-family: "open sans";
+    font-family: "Open sans";
     font-size: 20px;
     font-weight: 700;
 }
 
 .item-container {
     display: inline-block;
-    font-family: "open sans";
+    font-family: "Open sans";
     font-size: 14px;
     font-weight: 400;
     width: 350px;
@@ -31,10 +31,6 @@ h2 {
 
 .item-container.right-margin {
     margin-right: 32px;
-}
-
-body {
-    background-color: #FFFFFF;
 }
 
 main {
@@ -48,8 +44,6 @@ hr {
     margin-right: auto;
     width: 64px;
     border: none;
-    color: #ff8b38;
-    ;
     background-color: #ff8b38;
     height: 2px;
 }
@@ -67,5 +61,3 @@ hr {
 .img-style {
     vertical-align: middle;
 }
-
-
